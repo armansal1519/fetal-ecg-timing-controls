@@ -1,0 +1,3 @@
+status,record,fetal_s,maternal_s,power_s,refined_s,native_error_ms,refined_error_ms,shift_us,path,eligible,median_abs_shift_ms
+gained,B2_Labour_04,236.679,236.664,236.6895,236.68,10.5,1.0,-9500,data/processed/B2_Labour_04.npz,160,9.5
+lost,B2_Labour_04,293.845,293.88,293.855,293.862,10.0,17.0,7000,data/processed/B2_Labour_04.npz,21,7.0

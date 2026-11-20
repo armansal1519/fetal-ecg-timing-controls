@@ -1,0 +1,965 @@
+{
+  "source": "10.6084/m9.figshare.10311029.v1",
+  "files": [
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_01/B1_abSignals_01.ecg",
+      "size_bytes": 9582400,
+      "sha256": "9102c750c00cf3337663860fc9bc91bbd847f9caf1a2e4d94da95914045b0f3c",
+      "zip_crc32": "deef2373"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_01/B1_abSignals_01.txt",
+      "size_bytes": 22411412,
+      "sha256": "b1483f93c442aaf93b656d01ea81ee9bcbe70f1b1fb73da1ab5ae2810a54c3d0",
+      "zip_crc32": "e41fabec"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_01/B1_Fetal_R_01.txt",
+      "size_bytes": 30632,
+      "sha256": "df1972ce55e118822d057ac1380d54241030f783ab73838136cbd6aeab188ce0",
+      "zip_crc32": "f8217c81"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_01/B1_FHR_analysis_01.jpg",
+      "size_bytes": 578844,
+      "sha256": "5df77f506603e924cfb06826212a0d211086207e5973a589f3a3c7208d62a113",
+      "zip_crc32": "c28cf7f5"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_01/B1_FHR_analysis_01.tif",
+      "size_bytes": 28460131,
+      "sha256": "6ffbd7674b1249342a3f06c9dc1f27c262aa96e27f20eb9da290b193272c4b19",
+      "zip_crc32": "3549cb58"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_01/B1_Maternal_R_01.txt",
+      "size_bytes": 14704,
+      "sha256": "40b33bfffb9bc144096fbc6f8a553e1648ca7608d898f9f1ea95307680cf9093",
+      "zip_crc32": "63e76da8"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_02/B1_abSignals_02.ecg",
+      "size_bytes": 9582400,
+      "sha256": "3b0030c9dce62c865c2fd9fc9e4df1b39a68f8a76a289b3acb93fca832c0239c",
+      "zip_crc32": "7c1783a2"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_02/B1_abSignals_02.txt",
+      "size_bytes": 22457489,
+      "sha256": "ed95c69dc7661fd33157200460a0574ee27211cd95046de8d838e93f5c82fe52",
+      "zip_crc32": "6b18ed11"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_02/B1_Fetal_R_02.txt",
+      "size_bytes": 27536,
+      "sha256": "584d8959220318c91e04ea3fdce3fc1550b948dd32102ebef5a75403213329f4",
+      "zip_crc32": "d23f58ee"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_02/B1_FHR_analysis_02.jpg",
+      "size_bytes": 571199,
+      "sha256": "5604445b9cb531e541790da465c908838689844f3001d5120fb8fb155ec9f05f",
+      "zip_crc32": "d06fa03d"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_02/B1_FHR_analysis_02.tif",
+      "size_bytes": 28359115,
+      "sha256": "c9d1bc368c3749325241b8a397dc45008368b5dfcace79646301d42d55550440",
+      "zip_crc32": "90e5c6b5"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_02/B1_Maternal_R_02.txt",
+      "size_bytes": 16930,
+      "sha256": "e985461b5ac404522c677ec6476d111298ab29cf30a11b09d66daa95189a9511",
+      "zip_crc32": "d9035f2b"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_03/B1_abSignals_03.ecg",
+      "size_bytes": 9582400,
+      "sha256": "a8b87b9d6c30807d4f57218bdfc67acad6687eae74df3daa829845d767170062",
+      "zip_crc32": "5d29b400"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_03/B1_abSignals_03.txt",
+      "size_bytes": 22246185,
+      "sha256": "511e478209774ed6f8198acfb6645a9178f40964202556ced58e80aee797e720",
+      "zip_crc32": "07f0c7da"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_03/B1_Fetal_R_03.txt",
+      "size_bytes": 25175,
+      "sha256": "c0a5d8d6b13ef6d402d5edb994a3654c8af8b44e29b0c6ee9f8ed01e2aa6a4fc",
+      "zip_crc32": "3d088bbd"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_03/B1_FHR_analysis_03.jpg",
+      "size_bytes": 617859,
+      "sha256": "a24fa6310af3c84c40ea78bd1cd8232191183196f3f91e8078910f30afa458a0",
+      "zip_crc32": "a8686d0b"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_03/B1_FHR_analysis_03.tif",
+      "size_bytes": 28601851,
+      "sha256": "17c1fc05dcde4cd5ee63979788de3b8b9dbe72e747d87e8714c791128d625c43",
+      "zip_crc32": "d58376f0"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_03/B1_Maternal_R_03.txt",
+      "size_bytes": 15911,
+      "sha256": "725877697f5dd420b5c3ec651ca4adfdc2f01ce83779d73655aa2d46ee800c98",
+      "zip_crc32": "752060aa"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_04/B1_abSignals_04.ecg",
+      "size_bytes": 9582400,
+      "sha256": "416c5d47038f570806230e6cdad5bc1b0da11b85036a3cf4b7a17c80934e17a8",
+      "zip_crc32": "5288f984"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_04/B1_abSignals_04.txt",
+      "size_bytes": 22356850,
+      "sha256": "6eb4a4718b39715f6d620206027584d75118beaee7f7bf114e481558690ccd0c",
+      "zip_crc32": "72783f79"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_04/B1_Fetal_R_04.txt",
+      "size_bytes": 27256,
+      "sha256": "b4892f091fccd2d955311006902860131a6ad1a763d91b6d9704ffedba180d0b",
+      "zip_crc32": "48854272"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_04/B1_FHR_analysis_04.jpg",
+      "size_bytes": 563647,
+      "sha256": "5becb61eb41372762df696750194489543f5faef580abcf7f33a9c0defb25448",
+      "zip_crc32": "b5383aaf"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_04/B1_FHR_analysis_04.tif",
+      "size_bytes": 28703011,
+      "sha256": "b7732e432318ef30cfb81a4d01d7d135a09c34732a87602a63a9593d7425e9c5",
+      "zip_crc32": "dd060553"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_04/B1_Maternal_R_04.txt",
+      "size_bytes": 14801,
+      "sha256": "5ad5a7f5caaae7962330e8ac47e45cd941150af0e3955cd9adc6e561ac98e2b0",
+      "zip_crc32": "00a667e9"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_05/B1_abSignals_05.ecg",
+      "size_bytes": 9582400,
+      "sha256": "8b91e3b8b78dc7166565d3361f87ca7fbb72581e1306534a62d41fad3fbdbde2",
+      "zip_crc32": "2af273fe"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_05/B1_abSignals_05.txt",
+      "size_bytes": 22659124,
+      "sha256": "15ce6656cfe44de8e71c18604edd08ae01a151313e42d1a564625e369c895802",
+      "zip_crc32": "5852ddb5"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_05/B1_Fetal_R_05.txt",
+      "size_bytes": 27190,
+      "sha256": "5820a7e2e8ce3f9e8dd4bfdb8a826483cbc6f37336ca69630192cc7de7bc3396",
+      "zip_crc32": "72c872d8"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_05/B1_FHR_analysis_05.jpg",
+      "size_bytes": 540994,
+      "sha256": "5efc3178f75aeede4989892da2d4b2d5f41e90ca44f4934a4cdacaa4aa528071",
+      "zip_crc32": "c4b2f666"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_05/B1_FHR_analysis_05.tif",
+      "size_bytes": 28862419,
+      "sha256": "b5393807d32dd083d900f93161110b5151d03c348e7a88a1387dc11a5c3c5d53",
+      "zip_crc32": "9d27bbbb"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_05/B1_Maternal_R_05.txt",
+      "size_bytes": 15644,
+      "sha256": "b4481dc1e3e2ecce86615221aab14199550da9dbcd3342e242721afd9b11a368",
+      "zip_crc32": "f4e012c1"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_06/B1_abSignals_06.ecg",
+      "size_bytes": 9582400,
+      "sha256": "02b972214eadbb6ebacd88f2072c760885c683b658101f1d4354a62bfbc8f0c4",
+      "zip_crc32": "1fa9b248"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_06/B1_abSignals_06.txt",
+      "size_bytes": 22067179,
+      "sha256": "cb1d808c6b654c4e0ab121002be3db6aca77ab59d61b92cfeb81293e711e392c",
+      "zip_crc32": "5b41a45f"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_06/B1_Fetal_R_06.txt",
+      "size_bytes": 28352,
+      "sha256": "2b73376dffd591fbbfa8334b8771528d04a72dc7c07f0f3242009b3d2dd3b4fb",
+      "zip_crc32": "360bb550"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_06/B1_FHR_analysis_06.jpg",
+      "size_bytes": 544461,
+      "sha256": "4fcf227b7732175988f8ed95a27d9e9561747bd5eaf998d2d22c8e8be01fede7",
+      "zip_crc32": "687ceb86"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_06/B1_FHR_analysis_06.tif",
+      "size_bytes": 28575051,
+      "sha256": "57ae16e7b9648eeef88383afee584b34663c401c9dfa1ebc0036dc1134b92865",
+      "zip_crc32": "bf316c02"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_06/B1_Maternal_R_06.txt",
+      "size_bytes": 12949,
+      "sha256": "e6d4f915be0d5af914b9e40f4ec728882c50dae3d7af592f137dc975b55c9670",
+      "zip_crc32": "b672013d"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_07/B1_abSignals_07.ecg",
+      "size_bytes": 9582400,
+      "sha256": "dcd03f0db94bb4bf37adfe9561e343eeaecaee01f91d9899f1e80bd40493f912",
+      "zip_crc32": "ee4a1e8b"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_07/B1_abSignals_07.txt",
+      "size_bytes": 22202849,
+      "sha256": "c2b3c096ed57a116c5f1298fca6e9756f749fb87abbee01e4c0a9900c76cecc5",
+      "zip_crc32": "e89633c9"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_07/B1_Fetal_R_07.txt",
+      "size_bytes": 30543,
+      "sha256": "e303816eb2c628693dc1b53067c5274bdbbb3ea98c0f5c84bf4ff6e2f5d81921",
+      "zip_crc32": "ad06951f"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_07/B1_FHR_analysis_07.jpg",
+      "size_bytes": 599537,
+      "sha256": "83b8ce04cf28f223877c9d53eeebd4dff02a39a9fd2d23ef990efadb2161cdad",
+      "zip_crc32": "cadeb7e4"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_07/B1_FHR_analysis_07.tif",
+      "size_bytes": 28898475,
+      "sha256": "7b4d0a74b8e6cd5b8cb5a697d9d66e2663a0e71bc82169b3456729b90c2e6faa",
+      "zip_crc32": "05e0a083"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_07/B1_Maternal_R_07.txt",
+      "size_bytes": 14300,
+      "sha256": "da9ad8b3ebd8baebaa18a8d34e0130fc0b28087d9edbdec67450acc69847c446",
+      "zip_crc32": "9203594f"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_08/B1_abSignals_08.ecg",
+      "size_bytes": 9582400,
+      "sha256": "c23d1a4cbe531b0f9ea1708ee6ad26e7c2521ab96001ac886fe579f6bef4b737",
+      "zip_crc32": "550e8a60"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_08/B1_abSignals_08.txt",
+      "size_bytes": 22254935,
+      "sha256": "10ccd0bdd3bdbcadc159fd96cc785e0b8882e20f1c9a731a5a011c4e1828785f",
+      "zip_crc32": "c5f97590"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_08/B1_Fetal_R_08.txt",
+      "size_bytes": 28576,
+      "sha256": "eb30407d3a064c8e9225ee87d300cc6f079561885aaa2882527b0bb48d8d880f",
+      "zip_crc32": "078a8a6b"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_08/B1_FHR_analysis_08.jpg",
+      "size_bytes": 587465,
+      "sha256": "1eaefdef293023d597440585a318048c0014d9ef44398b7fcf4eb9d9929b6165",
+      "zip_crc32": "7abb0a1b"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_08/B1_FHR_analysis_08.tif",
+      "size_bytes": 28720171,
+      "sha256": "c9e03d35cc2c98007eaef0bee04f28b57ad92d21edec654e6879d3e3b53c8637",
+      "zip_crc32": "730ca033"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_08/B1_Maternal_R_08.txt",
+      "size_bytes": 12732,
+      "sha256": "0aee63b94cecf3a91bbd18d647a34098c5d73d26d942e22d0ab2481188a22330",
+      "zip_crc32": "3a95ad45"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_09/B1_abSignals_09.ecg",
+      "size_bytes": 9582400,
+      "sha256": "cf797dcc0a1662a58e9b375a3c25668fe73d1a5f60601aa24bed0fafaab72511",
+      "zip_crc32": "3fa2139b"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_09/B1_abSignals_09.txt",
+      "size_bytes": 22385393,
+      "sha256": "a3c0aa09ba259575230e20c6e4892fdb53fe113e2104bc9818df326432705fe3",
+      "zip_crc32": "aa5f04c2"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_09/B1_Fetal_R_09.txt",
+      "size_bytes": 28137,
+      "sha256": "31226dad9effcafafaa01dfa0dd742eaefaac6ff4fbbf584df4c2b47cf80c21a",
+      "zip_crc32": "9eff5e4a"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_09/B1_FHR_analysis_09.jpg",
+      "size_bytes": 557780,
+      "sha256": "50c9948e3d0af6ad8bc02f8537953260ea7f240f4564cd32b5e40b9742058cf4",
+      "zip_crc32": "705000f6"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_09/B1_FHR_analysis_09.tif",
+      "size_bytes": 28534491,
+      "sha256": "2dfbf6c7e55ad186abdb89a17bee4c6d017dbbe5e4bc1b36cdaeb186bd776d7a",
+      "zip_crc32": "30be6d06"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_09/B1_Maternal_R_09.txt",
+      "size_bytes": 16197,
+      "sha256": "489f90181061cf839b28c24bb52022a59092addc3dde84794c5301dc4bd1695b",
+      "zip_crc32": "896bd9cc"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_10/B1_abSignals_10.ecg",
+      "size_bytes": 9582400,
+      "sha256": "e80ea5843d9fdb4da846b2ad64f9260d22ead70e027888d5ff4b3319b211b028",
+      "zip_crc32": "d4f46572"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_10/B1_abSignals_10.txt",
+      "size_bytes": 22552129,
+      "sha256": "dd6dfa31d1d86f69ccf5c77efa0a639da876cfaf3dcb85af6bcde529be7690d3",
+      "zip_crc32": "6d5ad907"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_10/B1_Fetal_R_10.txt",
+      "size_bytes": 25436,
+      "sha256": "885baed0c650a9a736bf63784d56f17ef56a24a872f5072d381a79d7dff2c8f0",
+      "zip_crc32": "f8b24409"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_10/B1_FHR_analysis_10.jpg",
+      "size_bytes": 659257,
+      "sha256": "9bcc85ec57984570f587c0d10fd02e7a2532bf9b17eaedb6efcdd3ee43b79835",
+      "zip_crc32": "c9df465b"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_10/B1_FHR_analysis_10.tif",
+      "size_bytes": 28635771,
+      "sha256": "40d35745605abb083a38ba6f9a907c39beb91430c49f633e190be5224edc2f3f",
+      "zip_crc32": "bee7f97f"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/B1_Pregnancy_10/B1_Maternal_R_10.txt",
+      "size_bytes": 13784,
+      "sha256": "82ad8a06aa0ea16cf7596b4f55c71656a02243eb859c4c7186644deaf7268b84",
+      "zip_crc32": "7af36b02"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/Online-only Table 1.pdf",
+      "size_bytes": 37072,
+      "sha256": "f5509951c9e3c97a2c7324c090855d438eec2e03aec3a544116f3ec3baaecfe5",
+      "zip_crc32": "7019152a"
+    },
+    {
+      "path": "Data Records/B1_Pregnancy_dataset/Online-only Table 2.pdf",
+      "size_bytes": 16225,
+      "sha256": "db6b9d3d11e53218014e96d19ca54e18828c8b81b3b6da446fa9f9267c133e14",
+      "zip_crc32": "7cf4a48f"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_01/B2_abSignals_01.ecg",
+      "size_bytes": 2400000,
+      "sha256": "f5f6ed804e351afbdad145a51f4b4393f952f052d696b0a8ed30aa83b587e334",
+      "zip_crc32": "3aff69a1"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_01/B2_abSignals_01.txt",
+      "size_bytes": 5670211,
+      "sha256": "a3cd4f07daa4cb162f556de2e6ceba4913fa3b39e7c69b924c3029a67c28746c",
+      "zip_crc32": "1e452d38"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_01/B2_dFECG_01.ecg",
+      "size_bytes": 1200000,
+      "sha256": "eea48f7bb0d301f2b5d0d21b967da8979693393a579755c939b36c6e171a9e7c",
+      "zip_crc32": "dd5cb3ed"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_01/B2_dFECG_01.txt",
+      "size_bytes": 3657176,
+      "sha256": "6da45f507b7b76af455ff42a65965dd4764f2b844b8a85500592b418d3c5a608",
+      "zip_crc32": "44a59aa6"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_01/B2_Fetal_R_01.txt",
+      "size_bytes": 4914,
+      "sha256": "f4d1de15b7d409f5c2e7088d9835213a94b304a7e52265aeac5d306e2265e79e",
+      "zip_crc32": "b0545332"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_01/B2_FHR_analysis_01.jpg",
+      "size_bytes": 158508,
+      "sha256": "d5b3ecb8ef88784a4f32bca42f71c313e06e34292fe96ad997128184ea411d52",
+      "zip_crc32": "17e97768"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_01/B2_FHR_analysis_01.tif",
+      "size_bytes": 7310011,
+      "sha256": "6c4bbd3b668286e0b37f7e668a764d594ac852c23c81385cd2d7bce1f994fbfa",
+      "zip_crc32": "edd41274"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_01/B2_Maternal_R_01.txt",
+      "size_bytes": 2998,
+      "sha256": "25b09bbd9b9789222d9c9232a26c3e4cce3bef9065d954dffd8dc202b8bc686f",
+      "zip_crc32": "887f5276"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_02/B2_abSignals_02.ecg",
+      "size_bytes": 2400000,
+      "sha256": "d0e30a5a0899443bac404abd098748de8a96fe6dbf9fdd4b622e0d03a9d70b85",
+      "zip_crc32": "28e51f62"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_02/B2_abSignals_02.txt",
+      "size_bytes": 5683810,
+      "sha256": "fd05fc669040404e979402ff65391e3dc93f2e0f96a66569e108d3740e89c5c3",
+      "zip_crc32": "c41683db"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_02/B2_dFECG_02.ecg",
+      "size_bytes": 1200000,
+      "sha256": "55bc3bfca2852e461fffafbeb1c0a53b57f13086688c253f83741812ac847fd2",
+      "zip_crc32": "7b963c4a"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_02/B2_dFECG_02.txt",
+      "size_bytes": 3902653,
+      "sha256": "44f1364964c58fe27c4fee3bfc3fcce4c9ce18bd926660802cb89d39a453f0f3",
+      "zip_crc32": "51f897ed"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_02/B2_Fetal_R_02.txt",
+      "size_bytes": 4857,
+      "sha256": "c5c31dc2e15b14982c0c27b4cdbcadaf64bc492c9b3a3078854f393f4e37cc6e",
+      "zip_crc32": "7805296f"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_02/B2_FHR_analysis_02.jpg",
+      "size_bytes": 166276,
+      "sha256": "89a32b6d4248a19a40cdc164ddd87fcefad7afdef8c99ee04bd9be5dfc39ee2d",
+      "zip_crc32": "9047bf43"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_02/B2_FHR_analysis_02.tif",
+      "size_bytes": 7335755,
+      "sha256": "c63583bb913f6bd35b95ae489c20c0b6b757165aa588dbe8476abc2d3b19ebe4",
+      "zip_crc32": "80bc992f"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_02/B2_Maternal_R_02.txt",
+      "size_bytes": 3466,
+      "sha256": "3979236be3faa78606da569bf9bc045760582952175d90a421b78f653895ab9c",
+      "zip_crc32": "c9719625"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_03/B2_abSignals_03.ecg",
+      "size_bytes": 2400000,
+      "sha256": "80fd81fb04a01f51121aca904170c8569f15942e07d75aa4f5a361eb16df68bd",
+      "zip_crc32": "1c65d965"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_03/B2_abSignals_03.txt",
+      "size_bytes": 5628554,
+      "sha256": "3e223049eec610045c721eaa3e8c1d6189a9455b13c9f4292830feb67253e517",
+      "zip_crc32": "56bc3ede"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_03/B2_dFECG_03.ecg",
+      "size_bytes": 1200000,
+      "sha256": "1f07ac0d75426099286adaa196d6eda83c3aca16dfb614f0d0b6ded99d99f18d",
+      "zip_crc32": "0d175181"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_03/B2_dFECG_03.txt",
+      "size_bytes": 3634892,
+      "sha256": "b02890b30f14925b502580e54b1e3d2c2805ce50a0313aec7e3d2fb68b2ddfe3",
+      "zip_crc32": "a6e304c5"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_03/B2_Fetal_R_03.txt",
+      "size_bytes": 5429,
+      "sha256": "47e179919c95bd7cf0e4b2d32a82110a05dcc435aa7498a7d1998bb0712b0a7c",
+      "zip_crc32": "6a7c0df8"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_03/B2_FHR_analysis_03.jpg",
+      "size_bytes": 164661,
+      "sha256": "75c54500c520320b8fea9412243111957e8b2f40dc2bf25d505a50080f1cd375",
+      "zip_crc32": "e9b52ac2"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_03/B2_FHR_analysis_03.tif",
+      "size_bytes": 7335755,
+      "sha256": "e3d213d20734215c7085506b6057cb5bed110449060b9b71a5a9923e040afda7",
+      "zip_crc32": "a14f5b16"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_03/B2_Maternal_R_03.txt",
+      "size_bytes": 3516,
+      "sha256": "a30a66aa3fe6cab537277f0b923c78476106321b1480d88c9e1d82ea631f8ce6",
+      "zip_crc32": "72a815bb"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_04/B2_abSignals_04.ecg",
+      "size_bytes": 2400000,
+      "sha256": "b2b8e1b57bb40413278e2eaa762471f8e0a1b8ea9280914a6bb6143fa76b408e",
+      "zip_crc32": "44d1c8fb"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_04/B2_abSignals_04.txt",
+      "size_bytes": 5678194,
+      "sha256": "2c9bc1b438145c2a98cfb58995522fe5c5d183bfd03e6ef419faac1d1f55cdf3",
+      "zip_crc32": "7c734616"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_04/B2_dFECG_04.ecg",
+      "size_bytes": 1200000,
+      "sha256": "7d7e3417bba72591e709116773fe9ad7eb4e7f547bb3ec10d88dc1dfae44b518",
+      "zip_crc32": "32a169f9"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_04/B2_dFECG_04.txt",
+      "size_bytes": 3628065,
+      "sha256": "1a25cc39e3618c83920c88a9d818bb9acaeb9bbd825c07c80207f6ad28594ccb",
+      "zip_crc32": "f66561d0"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_04/B2_Fetal_R_04.txt",
+      "size_bytes": 5192,
+      "sha256": "f68d3013dfe13b9a17c815c9a74bb48f9901786383380aa90eac009e58116568",
+      "zip_crc32": "44cb479f"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_04/B2_FHR_analysis_04.jpg",
+      "size_bytes": 157776,
+      "sha256": "06bc9e6fcd6d4f68e2cf7c5427297f310d1f1221ec86a0444b566ed2a7f08875",
+      "zip_crc32": "ad1ebcc1"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_04/B2_FHR_analysis_04.tif",
+      "size_bytes": 7162155,
+      "sha256": "14f9975484b77183b185c8df1cb49854f52146be0123a4af438fcb40cd9fdee8",
+      "zip_crc32": "80157141"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_04/B2_Maternal_R_04.txt",
+      "size_bytes": 3170,
+      "sha256": "e0c85154fe9a8f66f709425f38aad33f7a14a3845cdff1026c916b39ec4dafe6",
+      "zip_crc32": "b506dba3"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_05/B2_abSignals_05.ecg",
+      "size_bytes": 2400000,
+      "sha256": "bcdf803ca08c45795d1ec8dc751498a76635bc75af5920ccc4282afd32587c5d",
+      "zip_crc32": "d8ef4f5f"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_05/B2_abSignals_05.txt",
+      "size_bytes": 5690131,
+      "sha256": "18137d1c8cc2c5c0479b216a1d7436ce688eea5575c10484ecb74bd04230396a",
+      "zip_crc32": "f888a691"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_05/B2_dFECG_05.ecg",
+      "size_bytes": 1200000,
+      "sha256": "fb118a43519a2f4c066e25401d7051373511541310f996f0d17194798ed40742",
+      "zip_crc32": "37d473a0"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_05/B2_dFECG_05.txt",
+      "size_bytes": 3640223,
+      "sha256": "85f56f1b2ef9f173316dd100e728fd9e036e4c2ad8cfdbf8c32e6eb61e00439f",
+      "zip_crc32": "b465d53d"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_05/B2_Fetal_R_05.txt",
+      "size_bytes": 5041,
+      "sha256": "6340470f5639e921503e9e0612b74db602e20b36875fc27ea3e6d0343b9525c3",
+      "zip_crc32": "e704e9b2"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_05/B2_FHR_analysis_05.jpg",
+      "size_bytes": 156383,
+      "sha256": "832048f38a8866c59c473f6bad36dd5b2aa5c1238f04b8526a529944cf7f3179",
+      "zip_crc32": "eede6fe0"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_05/B2_FHR_analysis_05.tif",
+      "size_bytes": 7111531,
+      "sha256": "4a3410f58d04563f8d80d4d7b24ae238623d8a5efe46633a2d0ea9efca003b4b",
+      "zip_crc32": "1b360b81"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_05/B2_Maternal_R_05.txt",
+      "size_bytes": 3055,
+      "sha256": "2be83bc8a8a1a7b551bfcf747454af464d5785d2ed1a1db2cf2e1c3702b314e0",
+      "zip_crc32": "c2fbce97"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_06/B2_abSignals_06.ecg",
+      "size_bytes": 2400000,
+      "sha256": "a1bd67efa7b0b656fae59932bfbb84b780b2c150585f66e6e151d4a3cf9d0aa9",
+      "zip_crc32": "4f9e0f02"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_06/B2_abSignals_06.txt",
+      "size_bytes": 5653604,
+      "sha256": "2a06c77e4a62c78a3edc2b3b8b391902d15ada3f9157ce47a4a38c85a752b702",
+      "zip_crc32": "d5b91047"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_06/B2_dFECG_06.ecg",
+      "size_bytes": 1200000,
+      "sha256": "babcfdef4eadd78bf84b46d6f1dadd6b548f22668937eb60a87b056de3b13de3",
+      "zip_crc32": "2df1a8f4"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_06/B2_dFECG_06.txt",
+      "size_bytes": 3663112,
+      "sha256": "a3b7661c3ca4f3ecddd5dac48f83c06beb625f74403ed5bb420a17d01ee516b5",
+      "zip_crc32": "18ad8fae"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_06/B2_Fetal_R_06.txt",
+      "size_bytes": 5220,
+      "sha256": "ebe1b8b5bfa77b09aabfa7aa6b85e90aa51c9bfb96d9386505d9b3da219cbc92",
+      "zip_crc32": "4c9a9e77"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_06/B2_FHR_analysis_06.jpg",
+      "size_bytes": 148787,
+      "sha256": "79ac1ef269ce2a14224585ae37af408e540260a6efccde47b5cba455b5972d08",
+      "zip_crc32": "0d7ccab3"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_06/B2_FHR_analysis_06.tif",
+      "size_bytes": 7324971,
+      "sha256": "1e1d9ae622c4dadd03cfb65a7ba6e8fa91f2b4e1306054775e19e6948ccbcc00",
+      "zip_crc32": "9425041c"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_06/B2_Maternal_R_06.txt",
+      "size_bytes": 3051,
+      "sha256": "acb1c0dc1123e089ce59c9899edb2f69296bcc5105786582dbcffe43e570ebc5",
+      "zip_crc32": "ed5a736a"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_07/B2_abSignals_07.ecg",
+      "size_bytes": 2400000,
+      "sha256": "026107f18cc6dc1a5e17d3dfcca06eb72705c3456bb1f48e3951634efeef9e8d",
+      "zip_crc32": "4e3a1e2d"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_07/B2_abSignals_07.txt",
+      "size_bytes": 5695471,
+      "sha256": "e5a66c1298a47bc446669a0ca3634198a137e3caf5a1430de25d31feb62251e4",
+      "zip_crc32": "820d0f30"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_07/B2_dFECG_07.ecg",
+      "size_bytes": 1200000,
+      "sha256": "4ac0a7468eaad434d2fffac40cea016c34a56929719e8bc653c634ec0f406066",
+      "zip_crc32": "14f33399"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_07/B2_dFECG_07.txt",
+      "size_bytes": 3782162,
+      "sha256": "f45d627d2f54ac487d0b658fa6dfcffea9efcc54aa3c9e02e289feb558b5a407",
+      "zip_crc32": "a793c026"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_07/B2_Fetal_R_07.txt",
+      "size_bytes": 4829,
+      "sha256": "5601bf87125a3a9da557fd529cb2a2c94ba718c6d4b128c08437e96e6b29ee68",
+      "zip_crc32": "5d6a27f6"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_07/B2_FHR_analysis_07.jpg",
+      "size_bytes": 165457,
+      "sha256": "7648ed3384e82ededb439a347aac71347fd7a4cbd012651999cf58379cdc0a94",
+      "zip_crc32": "f19ec952"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_07/B2_FHR_analysis_07.tif",
+      "size_bytes": 7269163,
+      "sha256": "674239068a5feaedef6f31043f8ec1cfd1592ede0156e2b6b28a623df477f303",
+      "zip_crc32": "7796dbd9"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_07/B2_Maternal_R_07.txt",
+      "size_bytes": 3260,
+      "sha256": "3929d94f8f928149fb3467ef3b4e11cc31f52ee83c23aa7bd69e09c3225c23a5",
+      "zip_crc32": "218769ca"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_08/B2_abSignals_08.ecg",
+      "size_bytes": 2400000,
+      "sha256": "1a30773f3db315b1d1a5446d800c5b6f7363bb26900764e2effc4b2af842b577",
+      "zip_crc32": "76683d63"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_08/B2_abSignals_08.txt",
+      "size_bytes": 5680958,
+      "sha256": "35a622773691535a4b74f9942091d2070c2a8b2077d9f416515f0e38ec12afa7",
+      "zip_crc32": "35f325a5"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_08/B2_dFECG_08.ecg",
+      "size_bytes": 1200000,
+      "sha256": "82f278f96393c4b834cd6589ac7cb9fb2dc11789d55b5f85b1cb167e072a1fb9",
+      "zip_crc32": "7788fd78"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_08/B2_dFECG_08.txt",
+      "size_bytes": 3624725,
+      "sha256": "6bed9e0706e22bf6635c437ec8a28cf4a9001263c84ee906aa16c2fb46776336",
+      "zip_crc32": "19116713"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_08/B2_Fetal_R_08.txt",
+      "size_bytes": 4924,
+      "sha256": "048f59eb57be7498fb6595a6862836290e4d6dba9ee4a0bc8352c7b1b3556d48",
+      "zip_crc32": "8ed8d786"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_08/B2_FHR_analysis_08.jpg",
+      "size_bytes": 154032,
+      "sha256": "efb46adae748235fda3ad46f530fe5d917c41f7691a802c6e3910eec452e11fe",
+      "zip_crc32": "ae0c722e"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_08/B2_FHR_analysis_08.tif",
+      "size_bytes": 7217963,
+      "sha256": "b2b62d872b409ed63b4f0c26161fffc2a2843856e627352e6aed1aa113b575ea",
+      "zip_crc32": "66bcc4d5"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_08/B2_Maternal_R_08.txt",
+      "size_bytes": 2929,
+      "sha256": "2e9ae2d902888ec9f17ac08e4fad04032712852c295743d4644a8c3226b82742",
+      "zip_crc32": "b50ec1c1"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_09/B2_abSignals_09.ecg",
+      "size_bytes": 2400000,
+      "sha256": "e6bee3cd73c91ee9b78d2ba28d71b495e230d8e29137b88893e8a29130965fb8",
+      "zip_crc32": "176b2400"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_09/B2_abSignals_09.txt",
+      "size_bytes": 5708380,
+      "sha256": "000e01ce902c865e6e391c4326fd1b4e3fc9e583e301ec3c1f5022076546e5dd",
+      "zip_crc32": "a214391a"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_09/B2_dFECG_09.ecg",
+      "size_bytes": 1200000,
+      "sha256": "0bd6557c9b03a01e74d26391f1e5fe22346d562aa56b8734e53f6465bd74f91b",
+      "zip_crc32": "a5d93df4"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_09/B2_dFECG_09.txt",
+      "size_bytes": 3743527,
+      "sha256": "d44137f2b6ef50e0b23452a7c617a4ea8e70026b38ea094d80f05fe767b5e674",
+      "zip_crc32": "f802582e"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_09/B2_Fetal_R_09.txt",
+      "size_bytes": 5149,
+      "sha256": "57cb69229b97c40912ac3c8aced050f7da92284e3cf6d4a251b17b50321e7607",
+      "zip_crc32": "c7b51f56"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_09/B2_FHR_analysis_09.jpg",
+      "size_bytes": 141664,
+      "sha256": "9f4bc49921b9c8704fd717afdc2523e6514c772ba2fcb2284a3c4700b129fed2",
+      "zip_crc32": "54c35bfe"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_09/B2_FHR_analysis_09.tif",
+      "size_bytes": 7136843,
+      "sha256": "b3561b67dd46b74ca65e6f9825ca9d010187ce691e0d30c5c4a034a4117bf6ab",
+      "zip_crc32": "c714d965"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_09/B2_Maternal_R_09.txt",
+      "size_bytes": 3215,
+      "sha256": "12b616981d63652588068e4302e622ac1d55f105d8142b4faed79d1f2cff5b86",
+      "zip_crc32": "89caf94f"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_10/B2_abSignals_10.ecg",
+      "size_bytes": 2400000,
+      "sha256": "80108e3b51afee9a167b5cfa94acc1f3348c1177bc79f13b718deabb36db8df7",
+      "zip_crc32": "6c3e2a27"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_10/B2_abSignals_10.txt",
+      "size_bytes": 5702120,
+      "sha256": "dfc7da933be8c10415b445b0d73345fef384b5f961b540e1327fa52933823a34",
+      "zip_crc32": "d66714b0"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_10/B2_dFECG_10.ecg",
+      "size_bytes": 1200000,
+      "sha256": "3800c2feeabacdd1c0adf022b8d7b5981340758d08b0a0d531a0afa3e838105b",
+      "zip_crc32": "45fa03f7"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_10/B2_dFECG_10.txt",
+      "size_bytes": 3951943,
+      "sha256": "8042687fb527f9d64851daa515edbe6f8f66c4aea03a27cdf94cb1d8eb8c9e76",
+      "zip_crc32": "5185446f"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_10/B2_Fetal_R_10.txt",
+      "size_bytes": 4782,
+      "sha256": "dfe75b20a90c677ded63b217a81c4b38ae7645218a7344b837bd814592e41089",
+      "zip_crc32": "222c557a"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_10/B2_FHR_analysis_10.jpg",
+      "size_bytes": 147973,
+      "sha256": "cc34872cb25c48f19492df50f60beb4011fb778a00571d959b38c6e1cca6a287",
+      "zip_crc32": "0f52a0dd"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_10/B2_FHR_analysis_10.tif",
+      "size_bytes": 7192363,
+      "sha256": "a63249caf5e2a60e22452bf9f3c62dfbfd440e09db0946e199eab222bac3fd4b",
+      "zip_crc32": "9e526979"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_10/B2_Maternal_R_10.txt",
+      "size_bytes": 2927,
+      "sha256": "f729536c420e548caed343138c2c5fe3f4b9ef5417dfdb79ba1d5de636beaa3d",
+      "zip_crc32": "b985ff8f"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_11/B2_abSignals_11.ecg",
+      "size_bytes": 2400000,
+      "sha256": "8e81bf375a85fb9d51d4962c8734555248e21eadd5eb77877708027c0b766f4e",
+      "zip_crc32": "8e46284b"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_11/B2_abSignals_11.txt",
+      "size_bytes": 5693592,
+      "sha256": "5a8f9f1b7c756e90ff42c0605efe289269e9442d3fce11faee7bf464df300e30",
+      "zip_crc32": "05c96d59"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_11/B2_dFECG_11.ecg",
+      "size_bytes": 1200000,
+      "sha256": "abb832278968f1889b400ee948a3efe9afd93205e72b77c3edfbde25ec4dbf0d",
+      "zip_crc32": "92de02f9"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_11/B2_dFECG_11.txt",
+      "size_bytes": 3840193,
+      "sha256": "3158446d696e6aecfe30c00b93c59e7c8a7bfd4579796e5df8fa4a47cf8c9177",
+      "zip_crc32": "3183b671"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_11/B2_Fetal_R_11.txt",
+      "size_bytes": 4927,
+      "sha256": "41595758fd90ef1c28d6eec680c91777e6ade3d13bb79ce1cc68e259d6a71222",
+      "zip_crc32": "897f9c8d"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_11/B2_FHR_analysis_11.jpg",
+      "size_bytes": 161790,
+      "sha256": "d5bc216af65479b43c089289485b1535e94484ec1e23e5fc7e744c6c4f367175",
+      "zip_crc32": "15df72f8"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_11/B2_FHR_analysis_11.tif",
+      "size_bytes": 7243563,
+      "sha256": "87c1c392a7d3a865657dba8d8e6aee66f487437b4af6e0fbd7500d2731f13289",
+      "zip_crc32": "94765e8e"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_11/B2_Maternal_R_11.txt",
+      "size_bytes": 3002,
+      "sha256": "034cbe63e34d95fb5233d3b9d2dbde00dc701037dfe91672433a7cf173987ed2",
+      "zip_crc32": "a98855a3"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_12/B2_abSignals_12.ecg",
+      "size_bytes": 2400000,
+      "sha256": "eb8b2e10c729439d4ada4ac49c4b78dcf458e06fe39d035012cc5023fa16b77c",
+      "zip_crc32": "a044f086"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_12/B2_abSignals_12.txt",
+      "size_bytes": 5757462,
+      "sha256": "e94bc6384ea0833ba01b2a702485f1ac14fa41d1f6ca43688f4feb747256bca4",
+      "zip_crc32": "32ce200c"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_12/B2_dFECG_12.ecg",
+      "size_bytes": 1200000,
+      "sha256": "3c9d15c7fccf15a19dc4ada1c7df5fe1c1130f47284fd6dcb85fb69cb067c704",
+      "zip_crc32": "2d6cabb3"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_12/B2_dFECG_12.txt",
+      "size_bytes": 3500469,
+      "sha256": "d55d85a76375dae1914ad143d36e9e2b40e5dd235aa99b98271efdfb4ca2ba78",
+      "zip_crc32": "f4335d0e"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_12/B2_Fetal_R_12.txt",
+      "size_bytes": 5014,
+      "sha256": "f0871bf3c956ad716e126623d8816fbfe662f6e3112185680218cbf77f54631c",
+      "zip_crc32": "e090a649"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_12/B2_FHR_analysis_12.jpg",
+      "size_bytes": 146246,
+      "sha256": "96cfe84a701d814caee5f83b07e78a648249201f97618949c13e56ab5ed9ec11",
+      "zip_crc32": "f1b2f10b"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_12/B2_FHR_analysis_12.tif",
+      "size_bytes": 7202859,
+      "sha256": "6fef4dc62229d521ca3514595d2273da6ea89093c1ce048b12be5992f8a0f941",
+      "zip_crc32": "02d61f62"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/B2_Labour_12/B2_Maternal_R_12.txt",
+      "size_bytes": 2974,
+      "sha256": "706f525a17ce069e864d3914901942a44270a5fe87f436a40c4d8b545c6d476d",
+      "zip_crc32": "a4dd8795"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/Online-only Table 3.pdf",
+      "size_bytes": 43417,
+      "sha256": "7e18221f3335de186fc54c93313421ecc212bb3f6d4d496f09b9a733a00e7aa4",
+      "zip_crc32": "b07ee43c"
+    },
+    {
+      "path": "Data Records/B2_Labour_dataset/Online-only Table 4.pdf",
+      "size_bytes": 18519,
+      "sha256": "c669321d2c459fcdeb27946bae2ab0bbd4df87509f6bc92937962bc48abb6c5d",
+      "zip_crc32": "c25616ec"
+    }
+  ]
+}

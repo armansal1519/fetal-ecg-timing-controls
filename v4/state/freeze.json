@@ -1,0 +1,69 @@
+{
+  "utc": "2026-11-20T08:04:44.363104+00:00",
+  "files": {
+    "v4/model.py": "3448bcf0546ceee196ee188cbcf3f0f20e4d46dba99caa70316b6b408cc50bc8",
+    "v4/train.py": "f6042c19b76b5b1ca798d75d440fdfd453e77a75152c2d4647c53616d35442c8",
+    "v4/dev_banks.py": "81c74083c55f7135ceaab6c6c70f2326714eddc5e1cb78e6d8d4f10eed847526",
+    "v4/dev_fronts.py": "266526ddb3bc0a8bf7e92ca2b6c7358f15c0f77c171c9cf5e64feee19a825d57",
+    "v4/development_protocol.md": "4b1a2f3628686b7303ec18e6d21a49e8c4492e7fe18c004583e6b856c3f2ff20",
+    "detector.py": "e6fbdf947e9aec8967b6231d265ab6dfeb671b290e902ef5055544ea3a73c7db",
+    "baseline_classic.py": "87f084251c28e18c333e2dd750ee94a47f0a470a63c1a0bbaa933371926ea712",
+    "other_refs.py": "e7d9aa79284caa7abc0ca3c6df17b9a8ff1836ed4ad5b2a99c7eadacca9b56ef",
+    "q1/frontend/detector.py": "4cd1f4b86a164008fc9f28e0ebecaef838d819a86a6c9b95e6576bff26be49eb",
+    "v2/model.py": "15d83194765a17affe268eacdad7ac2cbcf595c9aae31c9b3c19cc1816ac3b04",
+    "v2/dev_features.py": "413fd6100177d67a409732d93bdf2c397a9eefdbac22d227696c5834d58e4d5c",
+    "scoring.py": "6b5c40bb927c725347de9354cd33dffd11b12070e3821df41dcc88843335632e",
+    "q1/frontend/selection_lock.json": "70401a59683c72f7e2de9b0023267edcf01c227b1a92be1e49a3f1b883ac8a17",
+    "v4/state/development_ceiling.csv": "ada43b42fccf8edf686575b3403d2691f22ba5c6bd0a563ea5e967d4f860cd71",
+    "v4/state/oracle_lock.json": "92d3de329936bcf37042b6f73a451719bebd26b53f600fe64994e054490fef5c",
+    "v4/state/weights.json": "ecb5449d21e44f16ecf8db5cc9a996126e8401241086b10760d3212c0df417e3",
+    "v4/state/validation_records.csv": "a4ca15946f5664bd2eba417f5e70aa74954715cddadb3dc7364f2f64232604b7",
+    "v4/state/validation_domains.csv": "0d509459b2d41336f4d23ba12d4f18d95ab637fb21bc87ef222d2cc6c8a58cdd",
+    "v4/state/validation_trials.csv": "2653a386edc34144c867651e43e02492dfa02e1b3dd110e170df9b41a832f7ac"
+  },
+  "thresholds": {
+    "bank_cal": 0.0,
+    "bank_plain": 0.1,
+    "no_wave": 0.4,
+    "v4": 0.0
+  },
+  "state": "v4/state/weights.json",
+  "validations": [
+    {
+      "method": "bank_cal",
+      "threshold": 0.0,
+      "violation": 0.0,
+      "feasible": true,
+      "worst_timing_gain": 0.034940443475815014,
+      "average_timing_gain": 0.1432154685699954,
+      "selected": true
+    },
+    {
+      "method": "bank_plain",
+      "threshold": 0.1,
+      "violation": 0.0,
+      "feasible": true,
+      "worst_timing_gain": 0.019404365034349974,
+      "average_timing_gain": 0.07965952642749806,
+      "selected": true
+    },
+    {
+      "method": "no_wave",
+      "threshold": 0.4,
+      "violation": 0.0,
+      "feasible": true,
+      "worst_timing_gain": -0.006894354365280075,
+      "average_timing_gain": 0.033877846438199716,
+      "selected": true
+    },
+    {
+      "method": "v4",
+      "threshold": 0.0,
+      "violation": 0.0,
+      "feasible": true,
+      "worst_timing_gain": 0.03967298414615644,
+      "average_timing_gain": 0.1596869302506898,
+      "selected": true
+    }
+  ]
+}

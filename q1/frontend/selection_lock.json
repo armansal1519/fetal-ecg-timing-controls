@@ -1,0 +1,48 @@
+{
+  "locked_utc": "2026-11-19T19:04:42.280356+00:00",
+  "selected": "le",
+  "candidates_passing_development_screen": [],
+  "development_subjects": [
+    "B1_Pregnancy_07",
+    "B1_Pregnancy_08",
+    "B1_Pregnancy_09",
+    "B1_Pregnancy_10"
+  ],
+  "development_hashes": {
+    "data/processed/B1_Pregnancy_07.npz": "1d07f143d370c4a6e686ce77601982414a0fa466d9437b4b9f094b5ddf310bdb",
+    "results/predictions/le/B1_Pregnancy_07.csv.gz": "3ca8d35cbbe0dd7e7a616b0f80f490c2d80150919c4a30105427b03279119408",
+    "results/predictions/fm_fecg/B1_Pregnancy_07.csv.gz": "090a1063af0b204fcc85e1044cfd8eab8e48622a9c6a9aabea6bb91f047ac91c",
+    "results/predictions/power_mf/B1_Pregnancy_07.csv.gz": "354c1f59b6e62fb197e1344fb8fe10f4884b53e3676ea22d4bd627dc8898028f",
+    "data/processed/B1_Pregnancy_08.npz": "75c38ff83fda8b1fac4bd64df00edbc836c31f60f4ea91aa311ee4fde16f9c8a",
+    "results/predictions/le/B1_Pregnancy_08.csv.gz": "b233b17855688b9189ceff475747d2a9016face6151dea507e656424c21ba50f",
+    "results/predictions/fm_fecg/B1_Pregnancy_08.csv.gz": "b8e4506b709e620ee39c052f1bde47cb20041c5833eb7c9e97774342dc96e156",
+    "results/predictions/power_mf/B1_Pregnancy_08.csv.gz": "66f1f34d08727359ed9868c5e468000fae111cb78636dfe3a0c0fdb5a3498150",
+    "data/processed/B1_Pregnancy_09.npz": "380a57318a14ad87d9999d09221e05f06666e1294961c4073d5e9fc2ce5e104d",
+    "results/predictions/le/B1_Pregnancy_09.csv.gz": "39480c2ce16aacedab4c4322d8fdb4c0a9aa1a7b8402588cc50db85cc7368d6d",
+    "results/predictions/fm_fecg/B1_Pregnancy_09.csv.gz": "237d712391ee53ae730186406527abd5b357697429954add2d5d630508ca886d",
+    "results/predictions/power_mf/B1_Pregnancy_09.csv.gz": "ef82a2a99fe76c47c344ff6067421538eecac27482906d19c1f9dcf15285adc2",
+    "data/processed/B1_Pregnancy_10.npz": "33db521d41482353391a715f66d5ffc5396c24e44e3849207ade30e82c8d74d4",
+    "results/predictions/le/B1_Pregnancy_10.csv.gz": "d4ca48bc10f8026c88af6b369512f0469d5ce4ac823d3dfe94d7dbcae2d3e576",
+    "results/predictions/fm_fecg/B1_Pregnancy_10.csv.gz": "1d8a140fe0e700da85c308cd74c78d1b79b2341508ee5cecd7d941e03dd9477d",
+    "results/predictions/power_mf/B1_Pregnancy_10.csv.gz": "48e467eca657828f711e450bada3a395637666fac3e4abc694d1f990e4452ad9"
+  },
+  "source_hashes": {
+    "q1/frontend/protocol.md": "3d55b0fbd7c8cd6faef46ecc755a28a86025781aedecbc83c725ef652217a05f",
+    "q1/frontend/select.py": "f35cd6c4a72eef73dcf022073b526993c0a7e644e67672915d578a58f8227fa1",
+    "q1/frontend/detector.py": "4cd1f4b86a164008fc9f28e0ebecaef838d819a86a6c9b95e6576bff26be49eb",
+    "q1/frontend/development_means.csv": "c5171b1ec0fb67f3eaa2d3c9389e91fededdbad763b50915bdf86d2e2cdb0210",
+    "q1/frontend/development_patients.csv": "5f4c56ec2055b4dfc950318a0bfb047558aa641ede9e386237c9c670a1c769fc",
+    "other_refs.py": "e7d9aa79284caa7abc0ca3c6df17b9a8ff1836ed4ad5b2a99c7eadacca9b56ef",
+    "other_methods/neural.py": "b12425d5bf29d29dc4f1fd482d9ffe27227339d69fa03b2c43c4fa7a1cfcf9d1",
+    "other_methods/fm_weights.pt": "385bb59e27de6bde481421210a6f634c6685b0071318256a5e915cf2e60291d0",
+    "data/raw/fm_fecg/model.py": "18e6d343b2c7368c23098aa247b402d8d18bca1d3df06474d25786cc5d52cadc",
+    "data/raw/fm_fecg/conv1d_components.py": "8486926edd3360549f49e66f0e168472b02c4da05e7575d04bb1cd490104249b",
+    "v2/model.py": "15d83194765a17affe268eacdad7ac2cbcf595c9aae31c9b3c19cc1816ac3b04",
+    "v2/state/model_weights.json": "bcea37788733234e0038c27539a05d8b246517365aab9d5c6c7ab553cddc42da",
+    "v2/state/freeze.json": "403db40f9750eb5de3bea162ec70cbc3e0eb231e50aebd12e47ccd48a1f81de1",
+    "baseline_classic.py": "87f084251c28e18c333e2dd750ee94a47f0a470a63c1a0bbaa933371926ea712",
+    "scoring.py": "6b5c40bb927c725347de9354cd33dffd11b12070e3821df41dcc88843335632e",
+    "detector.py": "e6fbdf947e9aec8967b6231d265ab6dfeb671b290e902ef5055544ea3a73c7db",
+    "v2/paper/anchor_reachability.py": "5af3cd5b411bf97baeae8449249c14438a60dfb30a5dcdefd4d5d5a480561ca8"
+  }
+}

@@ -1,0 +1,16 @@
+record,source,source_record,envelope_r,cca_third_min,offset_s,overlap_s,accepted
+a03,poland,B2_Labour_02,0.99921,0.99362,-0.04,59.92,True
+a04,poland,B2_Labour_01,0.98216,0.99334,119.944,60.0,True
+a05,poland,B2_Labour_01,0.9807,0.99293,-0.056,59.9,True
+a08,poland,B2_Labour_11,0.97927,0.99397,239.944,60.0,True
+a12,poland,B2_Labour_02,0.99951,0.99351,239.96,60.0,True
+a13,poland,B2_Labour_07,0.9588,0.9945,239.952,60.0,True
+a14,poland,B2_Labour_02,0.99939,0.99333,119.96,60.0,True
+a15,poland,B2_Labour_11,0.97755,0.99208,119.944,60.0,True
+a17,poland,B2_Labour_11,0.97794,0.99315,-0.056,59.9,True
+a19,poland,B2_Labour_10,0.95895,0.99474,-0.048,59.92,True
+a20,poland,B2_Labour_07,0.96204,0.99461,119.952,60.0,True
+a22,poland,B2_Labour_01,0.98153,0.99393,239.944,60.0,True
+a23,poland,B2_Labour_10,0.95539,0.99411,119.952,60.0,True
+a24,poland,B2_Labour_10,0.95459,0.99417,239.952,60.0,True
+a25,poland,B2_Labour_07,0.95765,0.99592,-0.048,59.92,True

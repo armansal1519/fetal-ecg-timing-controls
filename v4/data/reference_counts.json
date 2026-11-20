@@ -1,0 +1,26 @@
+{
+  "challenge": {
+    "fetal_valid": 1263,
+    "overlaps": 110,
+    "records": 10,
+    "valid_ms": 510627
+  },
+  "gaussian": {
+    "fetal_valid": 26231,
+    "overlaps": 2686,
+    "records": 160,
+    "valid_ms": 11520000
+  },
+  "hermite": {
+    "fetal_valid": 44470,
+    "overlaps": 4811,
+    "records": 160,
+    "valid_ms": 19200000
+  },
+  "simulation": {
+    "fetal_valid": 70701,
+    "overlaps": 7497,
+    "records": 320,
+    "valid_ms": 30720000
+  }
+}
